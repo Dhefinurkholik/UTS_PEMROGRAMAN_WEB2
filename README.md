@@ -141,13 +141,13 @@ setcookie("session", $session_id, [
 
 ## Output
 
-![img](gambar/ss.login.png)<br>
+![img](Gambar/ss.login.png)<br>
 
-![img](gambar/ss.transfer.png)<br>
+![img](Gambar/ss.transfer.png)<br>
 
-![img](gambar/ss.nominal.png)<br>
+![img](Gambar/ss.nominal.png)<br>
 
-![img](gambar/ss.hasil.png)<br>
+![img](Gambar/ss.hasil.png)<br>
 
 ### Link Artikel Publikasi
 Artikel ini telah dipublikasikan dan dapat dibaca melalui tautan berikut: <br> 
@@ -156,7 +156,7 @@ https://csrfalert.blogspot.com/2025/04/cross-site-request-forgery-csrf-ancaman.h
 ### Bukti Pengecekan Plagiasi
 Berikut adalah hasil pengecekan plagiarisme menggunakan DupliChecker:<br>
 
-![img](gambar/plagiasi.png)<br>
+![img](Gambar/plagiasi.png)<br>
 
 - Plagiarism Rate: 6% <br>
 - Unique Content: 94% <br>
